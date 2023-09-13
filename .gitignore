@@ -1,0 +1,7 @@
+\node_modules
+\dist
+api_test.py
+\__pycache__
+.env
+.venv
+package-lock.json
